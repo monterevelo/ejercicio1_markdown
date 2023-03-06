@@ -1,6 +1,6 @@
 # ejercicio1
 
-German Montenegro
+German Montenegro Revelo
 Ingeniero Civil
 🏗 Me especializo en la ejecución de obras civiles de Construcción y Mantenimiento, en las siguientes áreas:
 
