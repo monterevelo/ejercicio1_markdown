@@ -1,6 +1,6 @@
 # cv_inge
 
-# Hola, mi nombre es Germán Montenegro Revelo
+# Hola, mi nombre es Germán Montenegro
 ## Soy Ingeniero Civil
 
 🏗 Me especializo en la ejecución de obras civiles de **Construcción y Mantenimiento**, en las siguientes áreas:
