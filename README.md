@@ -11,7 +11,7 @@
 
 🚨 Ayudo a las organizaciones en la Gestión de todos los aspectos relacionados con del desarrollo de las obras civiles gracias a mis conocimientos en **Gerencia de Proyectos**. 
 
-👨‍💻 Disfruto de la tecnología y me gusta estudiar varios temas.  Tengo algunos conocimientos en Python, Java, PHP, SQL, SQlite, HTML5, CSS y Power BI, entre otros.
+👨‍💻 Disfruto de la tecnología y me gusta siempre estar aprendiendo nuevos temas.  Tengo algunos conocimientos en Python, Java, PHP, SQL, SQlite, HTML5, CSS y Power BI, entre otros.
 
 🚦Me caracterizo por ser una persona autocrítica, proactiva y con gran capacidad para el trabajo colaborativo.
 
